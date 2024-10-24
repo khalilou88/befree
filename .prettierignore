@@ -7,3 +7,4 @@
 # Maven target
 target/
 nx-maven/.m2/repository
+.angular
